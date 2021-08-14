@@ -8,7 +8,7 @@ let student = {
     LastName: "Sanap",
     }
 let mentor = {
-    FirstName: "Raghav",
+    FirstName: "Ragav",
     LastName: "kumar",
 }
 function printFullname (rating) {
@@ -25,7 +25,7 @@ let student = {
     LastName: "Sanap",
     }
 let mentor = {
-    FirstName: "Raghav",
+    FirstName: "Ragav",
     LastName: "kumar",
 }
 function printFullname (rating,score) {
@@ -42,7 +42,7 @@ let student = {
     LastName: "Sanap",
     }
 let mentor = {
-    FirstName: "Raghav",
+    FirstName: "Ragav",
     LastName: "kumar",
 }
 function printFullname (rating,score) {
